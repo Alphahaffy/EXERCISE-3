@@ -1,0 +1,7 @@
+INSERT INTO courses(C_no,C_name,C_teacher, C_credit_hours)
+VALUES
+("2","DATABASE SYSTEM","DILAWAR",3),
+("3","Ds","MOAZIM",3),
+("2","INTRODUCTION TO AI","IZHAR",5),
+("2","STATISTICST","MUZAMMIL",5);
+SELECT * FROM courses;
